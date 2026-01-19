@@ -3,7 +3,7 @@
 Hi there, this is FlyGoat (Jiaxun Yang).
 
 I am:
-- An undergraduate student at [University of Edinburgh](https://www.ed.ac.uk). [(My acadamic profile)](https://www.ed.ac.uk/profile/jyang)
+- A [research assistant and incoming PhD student](https://people.inf.ed.ac.uk/Jiaxun_Yang.html) at [[NetSys Group](https://netsys.inf.ed.ac.uk/), [Systems-Nuts Group](https://systems-nuts.com/)], [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk).
 - Part-time employee of a company working on RISC processors.
 - A developer stepping on the boundary of software and hardware.
 - Maintainer & reviewer at various FOSS projects such as Linux kernel and QEMU.
