@@ -3,10 +3,10 @@
 Hi there, this is FlyGoat (Jiaxun Yang).
 
 I am:
-- A [research assistant and incoming PhD student](https://people.inf.ed.ac.uk/Jiaxun_Yang.html) at [[NetSys Group](https://netsys.inf.ed.ac.uk/), [Systems-Nuts Group](https://systems-nuts.com/)], [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk).
+- A [research assistant and PhD student](https://people.inf.ed.ac.uk/Jiaxun_Yang.html) at [[NetSys Group](https://netsys.inf.ed.ac.uk/), [Systems-Nuts Group](https://systems-nuts.com/)], [School of Informatics](https://informatics.ed.ac.uk/), [University of Edinburgh](https://www.ed.ac.uk).
 - Part-time employee of a company working on RISC processors.
 - A developer stepping on the boundary of software and hardware.
-- Maintainer & reviewer at various FOSS projects such as Linux kernel and QEMU.
+- Maintainer & reviewer at various FOSS projects such as Linux kernel, LLVM and QEMU.
 - An amateur radio operator, or HAM, with callsign [GM3HSO (UK)](https://www.qrz.com/db/GM3HSO), [BH5HSO (China)](https://www.qrz.com/db/BH5HSO).
 - Network operator of [AS48987](https://as48987.flygoat.com/), my research and experiment network.
 - An aviation enthusiast, UK CAA Part-FCL PPL(A) SEP pilot. [AFTN](https://en.wikipedia.org/wiki/Aeronautical_Fixed_Telecommunication_Network) address: `EGPHZXAG`
